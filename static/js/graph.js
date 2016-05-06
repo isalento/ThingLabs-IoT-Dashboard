@@ -10,7 +10,7 @@ var n = 60,
     accumulatedTime = 0,
     averageWindowTime = 0,
     sampleCount = 0,
-    labels = ['minlight', 'avglight', 'maxlight'];
+    labels = ['mintemp', 'avgtemp', 'maxtemp'];
 
 var io = io.connect();
                        
